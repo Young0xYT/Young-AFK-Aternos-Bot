@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Young0xBOT",
     "password": "agustin",
-    "type": "offline"
+    "type": "/register agustin agustin"
   },
   "server": {
     "ip": "Server0x.aternos.me",
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "/register agustin agustin",
         "Subscribe to Young0x",
         "I like to play Minecraft!"
       ]
