@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Young0xBOT",
     "password": "agustin",
-    "type": "/register agustin agustin"
+    "type": ""
   },
   "server": {
     "ip": "Server0x.aternos.me",
@@ -13,14 +13,14 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100,
     "y": 100,
-    "z": 0
+    "z": 100
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "agustin"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "/register agustin agustin",
-        "Subscribe to Young0x",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
